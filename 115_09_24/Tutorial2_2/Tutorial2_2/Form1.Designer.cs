@@ -28,13 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.顯示訊息 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // 顯示訊息
+            // 
+            this.顯示訊息.Font = new System.Drawing.Font("新細明體", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.顯示訊息.Location = new System.Drawing.Point(158, 109);
+            this.顯示訊息.Name = "顯示訊息";
+            this.顯示訊息.Size = new System.Drawing.Size(485, 208);
+            this.顯示訊息.TabIndex = 0;
+            this.顯示訊息.Text = "顯示訊息";
+            this.顯示訊息.UseVisualStyleBackColor = true;
+            this.顯示訊息.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.顯示訊息);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button 顯示訊息;
     }
 }
 
