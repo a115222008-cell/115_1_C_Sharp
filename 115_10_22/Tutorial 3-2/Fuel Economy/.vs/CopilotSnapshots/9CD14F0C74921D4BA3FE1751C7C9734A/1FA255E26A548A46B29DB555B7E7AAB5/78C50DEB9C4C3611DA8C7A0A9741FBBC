@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
+
+namespace Fuel_Economy
+{
+    // 應用程式的進入點類別。
+    static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            // 啟用 Windows Forms 的視覺樣式。
+            Application.EnableVisualStyles();
+
+            // 使用預設的文字呈現方式。
+            Application.SetCompatibleTextRenderingDefault(false);
+
+            // 啟動燃油經濟性計算表單。
+            Application.Run(new Form1());
+        }
+    }
+}
