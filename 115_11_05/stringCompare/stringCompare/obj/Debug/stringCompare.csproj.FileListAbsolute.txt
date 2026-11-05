@@ -1,0 +1,9 @@
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\bin\Debug\stringCompare.exe.config
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\bin\Debug\stringCompare.exe
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\bin\Debug\stringCompare.pdb
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\obj\Debug\stringCompare.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\obj\Debug\stringCompare.Properties.Resources.resources
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\obj\Debug\stringCompare.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\obj\Debug\stringCompare.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\obj\Debug\stringCompare.exe
+C:\Users\m303\Desktop\115_1_C_Sharp\115_11_05\stringCompare\stringCompare\obj\Debug\stringCompare.pdb
