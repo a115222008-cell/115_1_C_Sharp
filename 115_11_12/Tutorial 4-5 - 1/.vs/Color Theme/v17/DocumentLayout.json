@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\115_1_C_Sharp\\115_11_12\\Tutorial 4-5 - 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C6B3320-3FE2-4BF0-8F59-35B56E4FAA65}|Color Theme\\Color Theme.csproj|C:\\Users\\m303\\Desktop\\115_1_C_Sharp\\115_11_12\\Tutorial 4-5 - 1\\color theme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6B3320-3FE2-4BF0-8F59-35B56E4FAA65}|Color Theme\\Color Theme.csproj|c:\\users\\m303\\desktop\\115_1_c_sharp\\115_11_12\\tutorial 4-5 - 1\\color theme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6B3320-3FE2-4BF0-8F59-35B56E4FAA65}|Color Theme\\Color Theme.csproj|solutionrelative:color theme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6B3320-3FE2-4BF0-8F59-35B56E4FAA65}|Color Theme\\Color Theme.csproj|c:\\users\\m303\\desktop\\115_1_c_sharp\\115_11_12\\tutorial 4-5 - 1\\color theme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C6B3320-3FE2-4BF0-8F59-35B56E4FAA65}|Color Theme\\Color Theme.csproj|C:\\Users\\m303\\Desktop\\115_1_C_Sharp\\115_11_12\\Tutorial 4-5 - 1\\color theme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C6B3320-3FE2-4BF0-8F59-35B56E4FAA65}|Color Theme\\Color Theme.csproj|solutionrelative:color theme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +36,10 @@
               "RelativeDocumentMoniker": "Color Theme\\Form1.cs",
               "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_Sharp\\115_11_12\\Tutorial 4-5 - 1\\Color Theme\\Form1.cs",
               "RelativeToolTip": "Color Theme\\Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwEgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAawDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T05:53:03.628Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Color Theme\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_Sharp\\115_11_12\\Tutorial 4-5 - 1\\Color Theme\\Form1.Designer.cs",
               "RelativeToolTip": "Color Theme\\Form1.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T07:26:04.553Z",
               "EditorCaption": ""
